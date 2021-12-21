@@ -6,7 +6,7 @@
 
 ### Graphical interface
 
-Quitting [Console](https://github.com/itsyanis/EasySave-ConsoleVersion) mode. [EasySave 3.0](https://github.com/itsyanis/EasySave-Graphic-Version/edit/main) is developed in WPF under .Net Core
+Quitting [Console](https://github.com/itsyanis/EasySave-ConsoleVersion) mode. [EasySave 3.0](https://github.com/itsyanis/EasySave-Graphic-Version) is developed in WPF under .Net Core
 
 The software allows you to create an unlimited number of backup jobs
 
