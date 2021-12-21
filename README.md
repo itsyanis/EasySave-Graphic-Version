@@ -1,5 +1,6 @@
 ## Demo
 
+![EasySave3 0](https://user-images.githubusercontent.com/93043965/146934783-4877e13c-2384-4566-838a-17d24e482d53.gif)
 
 ## Description
 
@@ -96,11 +97,11 @@ The user can define the business software in the general software parameters (se
 ## Tech Stack
 
 * Visual Studio 2019
-* .NET Framework 
+* .NET Framework (WPF)
 * Git 
 
 ## Installation
 
 ```bash
-  git clone https://github.com/itsyanis/EasySave-ConsoleVersion.git
+  git clone https://github.com/itsyanis/EasySave-Graphic-Version.git
 ```
