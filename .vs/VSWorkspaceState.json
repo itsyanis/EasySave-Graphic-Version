@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EasySave_3",
+    "\\EasySave_3\\Assets",
+    "\\EasySave_3\\obj",
+    "\\EasySave_3\\obj\\Debug",
+    "\\EasySave_3\\obj\\Debug\\netcoreapp3.1",
+    "\\EasySave_3\\obj\\Debug\\netcoreapp3.1\\Views",
+    "\\EasySave_3\\Properties",
+    "\\EasySave_3\\ViewModels",
+    "\\EasySave_3\\Views"
+  ],
+  "SelectedNode": "\\EasySave_3\\Views\\MainMenuView.xaml",
+  "PreviewInSolutionExplorer": false
+}

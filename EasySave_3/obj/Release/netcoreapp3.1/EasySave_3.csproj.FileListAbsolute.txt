@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\EasySave3.0\EasySave_3\obj\Release\netcoreapp3.1\EasySave_3.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\EasySave3.0\EasySave_3\obj\Release\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ASUS\Desktop\EasySave3.0\EasySave_3\obj\Release\netcoreapp3.1\Views\AddBackupJobView.g.cs
+C:\Users\ASUS\Desktop\EasySave3.0\EasySave_3\obj\Release\netcoreapp3.1\Views\ExecuteView.g.cs
+C:\Users\ASUS\Desktop\EasySave3.0\EasySave_3\obj\Release\netcoreapp3.1\Views\MainMenuView.g.cs
+C:\Users\ASUS\Desktop\EasySave3.0\EasySave_3\obj\Release\netcoreapp3.1\Views\ManageBackupJobView.g.cs
+C:\Users\ASUS\Desktop\EasySave3.0\EasySave_3\obj\Release\netcoreapp3.1\Views\SettingsView.g.cs
+C:\Users\ASUS\Desktop\EasySave3.0\EasySave_3\obj\Release\netcoreapp3.1\App.g.cs
+C:\Users\ASUS\Desktop\EasySave3.0\EasySave_3\obj\Release\netcoreapp3.1\EasySave_3_MarkupCompile.cache
+C:\Users\ASUS\Desktop\EasySave3.0\EasySave_3\obj\Release\netcoreapp3.1\EasySave_3_MarkupCompile.lref

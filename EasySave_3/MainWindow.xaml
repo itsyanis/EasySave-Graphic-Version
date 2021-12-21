@@ -1,0 +1,35 @@
+﻿<Window x:Class="EasySave_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EasySave_3"
+        xmlns:views="clr-namespace:EasySave_3.Views"
+        xmlns:vms="clr-namespace:EasySave_3.ViewModels"
+        mc:Ignorable="d"
+        ResizeMode="CanMinimize"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Resources>
+            <DataTemplate DataType="{x:Type vms:MainMenuViewModel}">
+                <views:MainMenuView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vms:AddBackupJobViewModel}">
+                <views:AddBackupJobView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vms:ManageBackupJobViewModel}">
+                <views:ManageBackupJobView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vms:ExecuteViewModel}">
+                <views:ExecuteView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vms:SettingsViewModel}">
+                <views:SettingsView/>
+            </DataTemplate>
+        </Grid.Resources>
+
+        <ContentControl Content="{Binding CurrentViewModel}"/>
+
+
+    </Grid>
+</Window>

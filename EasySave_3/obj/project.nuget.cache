@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jRtSv23pkdLrv7z2ILfRvnn/9BR5aeH02u4YpMsMqUX0C0BVEFlPsBNrlDvPsrypij8efuYrhjJFf+59rR65vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\EasySave3.0\\EasySave_3\\EasySave_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\ookii.dialogs.wpf\\5.0.1\\ookii.dialogs.wpf.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
