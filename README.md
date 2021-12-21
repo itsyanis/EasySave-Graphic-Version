@@ -6,7 +6,7 @@
 
 ### Graphical interface
 
-Quitting Console mode. EasySave 3.0 is developed in WPF under .Net Core
+Quitting [Console](https://github.com/itsyanis/EasySave-ConsoleVersion) mode. [EasySave 3.0](https://github.com/itsyanis/EasySave-Graphic-Version/edit/main) is developed in WPF under .Net Core
 
 The software allows you to create an unlimited number of backup jobs
 
@@ -64,7 +64,7 @@ The number of backup jobs is unlimited.
 
 ### Encryption via CryptoSoft software
 
-The software is capable of encrypting files using CryptoSoft software. Only files whose extensions have been defined by the user in the general settings will be encrypted.
+The software is capable of encrypting files using [CryptoSoft](https://github.com/itsyanis/CryptoSoft) software. Only files whose extensions have been defined by the user in the general settings will be encrypted.
 
 ### Evolution of the Daily Log file
 
